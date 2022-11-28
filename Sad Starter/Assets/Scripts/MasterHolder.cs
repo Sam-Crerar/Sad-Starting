@@ -20,6 +20,6 @@ public class MasterHolder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        Debug.Log(passiveIncome.ToString());
     }
 }
